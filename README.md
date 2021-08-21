@@ -26,7 +26,7 @@ I'm a software developer, a passionate learner and an aspiring content creator. 
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱What I'm Learning
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
+- 🛠 AWS Cloud Services 𒑰 Serverless 𒑰 Terraform
 - DevOps
 
 `Reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!`
